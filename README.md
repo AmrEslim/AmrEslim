@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Amr Eslim<br>based in Berlin<br>Graduated from HTW Berlin with a degree in Computer Engineering in April 2025<br>Specialized in Linux-based Embedded Systems and i use C++<br>love to build projects and create solutions for annoying problems xD.<br>My latest project is the Side Quester, it is a friend finder in festivals away from cellular network,  check out my repo <br>looking for job opportunity in berlin or remote that would allow me to grow as a developer and an engineer.
+Hi, I'm Amr<br>based in Berlin<br>Graduated from HTW Berlin with a degree in Computer Engineering in April 2025<br>Specialized in Linux-based Embedded Systems and i use C++<br>love to build projects and create solutions for annoying problems xD.<br>My latest project is the Side Quester, it is a friend finder in festivals away from cellular network,  check out my repo <br>looking for job opportunity in berlin or remote that would allow me to grow as a developer and an engineer.
 
 
 ## 🌐 Socials:
